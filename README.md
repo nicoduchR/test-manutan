@@ -23,3 +23,9 @@ This will output each step of the solution to the console, showing the movement 
 ## Modification and Configuration
 
 - **Changing the Number of Disks**: Modify the `diskNumber` variable at the top of the script to solve the puzzle for a different number of disks.
+
+## To run unit tests :
+
+```bash
+npm run test
+```
