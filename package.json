@@ -1,0 +1,15 @@
+{
+  "name": "test-manutan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hanoi.js",
+  "scripts": {
+    "start": "node hanoi.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
